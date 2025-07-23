@@ -1,4 +1,3 @@
 void main(){
-  int c=0;
 int a=0;
 }
