@@ -1,1 +1,1 @@
-![alt text](https://github.com/Dhanashree0810/5182602_Dhanashree-Rathinasamy/blob/main/SDLC/Great%20learning%20certificate.png)
+![alt text](https://github.com/Dhanashree0810/5182602_Dhanashree-Rathinasamy/blob/main/SDLC-Agile/Great%20learning%20certificate.png)
